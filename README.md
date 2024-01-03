@@ -12,3 +12,6 @@ Step 3: Relating the search traffic to stock price patterns
 
 Step 4: Create a time series model with Prophet
 
+Coding Overview 
+This project was written ysing Python in Google Collab. It can be run using Jupyter Notebook and Google Collab.
+
